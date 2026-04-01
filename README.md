@@ -8,5 +8,3 @@ this is a fork of ben grelk's github profile config file.
 
 purpose for repo:
 1. learn how forks work
-2. apply github profile config file to my account
-   3. later in teim.
