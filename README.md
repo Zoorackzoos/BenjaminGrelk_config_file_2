@@ -1,13 +1,12 @@
-# Hello, World!
-I'm Ben Grelk, a college freshman in Software Engineering at the University of Nebraska-Lincoln!
+# Hello me, meet the read me
 
-## Interests
-Ih the programming world, I like web development, both frontend and backend. I'm also dedicated to creating a more accessible digital world. Outside of development,
-I enjoy watching anime and playing video games.
 
-## Communities and Projects
-I'm active on [Python Discord](https://discord.com/invite/python) (under an alias). They have some great people there, as well as some code jams and other events. 
-I also enjoy [Advent of Code](https://adventofcode.com).
+<img src="https://c.tenor.com/ZzSB_kKboHsAAAAC/tenor.gif" width="200" height="200" title="Ed eating his matress" alt="Ed from Ed Edd n Eddy is consuming his matress by morphing his body to swallow it whole. this is quite effective.">
 
-## Contact
-You can reach me at my email, ben.grelk@gmail.com
+
+this is a fork of ben grelk's github profile config file.
+
+purpose for repo:
+1. learn how forks work
+2. apply github profile config file to my account
+   3. later in teim.
